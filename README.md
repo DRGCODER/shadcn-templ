@@ -2,6 +2,8 @@
 
 This project is currently unmaintained, and not in a really usable state; sorry for any incovenience this might cause :)
 
+If you want to maintain and/or develop this project and would like to be added as a collaborator, or you have any insights, feel free to contact me at <horesh.rotem at gmail.com>.
+
 ---
 
 # Shadcn/ui port for Go + Templ + Alpine.js + Tailwind CSS

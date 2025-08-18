@@ -1,3 +1,9 @@
+# ⚠️ This project is not maintained
+
+This project is currently unmaintained, and not in a really usable state; sorry for any incovenience this might cause :)
+
+---
+
 # Shadcn/ui port for Go + Templ + Alpine.js + Tailwind CSS
 
 [![Go Reference](https://pkg.go.dev/badge/github.com/rotemhoresh/shadcn-templ.svg)](https://pkg.go.dev/github.com/rotemhoresh/shadcn-templ)
